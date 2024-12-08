@@ -1,0 +1,39 @@
+{
+  "data": {
+    "header": {
+      "title": "Top News",
+      "description": "The hottest news and views from the world of football"
+    },
+    "matchInfo": [
+      {
+        "title": "Match 1: The Big Showdown",
+        "image": "https://e0.365dm.com/21/09/768x432/skysports-cristiano-ronaldo_5520308.png?20210922104419"
+      },
+      {
+        "title": "Match 2: The Rising Stars",
+        "image": "https://c.ndtvimg.com/2024-12/5fmp3ako_sunil-chhetri-x-indsuperleague_625x300_07_December_24.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605"
+      },
+      {
+        "title": "Match 3: The Final Battle",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJvMnS_qKnLDJa12jpdjCypES8Cg9bh6e1g&s"
+      }
+    ],
+    "playerInfo": {
+      "title": "Trending Players",
+      "info": [
+        {
+          "name": "Player A",
+          "image": "https://img.favpng.com/20/3/24/football-player-vector-graphics-clip-art-child-png-favpng-s74C5D9UNZzjfGwab5m2yuxrE.jpg"
+        },
+        {
+          "name": "Player B",
+          "image": "https://i.pinimg.com/736x/8f/8b/e5/8f8be5c852cfd0c20f9f0bead26c38ac.jpg"
+        },
+        {
+          "name": "Player C",
+          "image": "https://media.istockphoto.com/id/1412105775/vector/two-cute-boys-playing-football.jpg?s=612x612&w=0&k=20&c=rVp8O_pM5Wb_0Ngv3nuu6p7Fut8Ja2NWkyWlI3Dk7fs="
+        }
+      ]
+    }
+  }
+}
